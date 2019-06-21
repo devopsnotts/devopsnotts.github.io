@@ -28,7 +28,7 @@ social:
   - title: facebook
     url: https://www.facebook.com
   - title: twitter
-    url: https://twitter.com
+    url: https://twitter.com/devopsnotts
 
 # Build settings
 markdown: kramdown
