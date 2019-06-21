@@ -29,6 +29,10 @@ social:
     url: https://www.facebook.com
   - title: twitter
     url: https://twitter.com/devopsnotts
+  - title: slack
+    url: https://join.slack.com/t/devopsnotts/shared_invite/enQtNjQ4MTg3NTY2MDE3LThhOGQzZDZhN2M4ODRhOWIxZWNmMGQwMTQ5OTExMjkyYzczYzRjMWUyODExNjg4ZjEwNjMwYWM5MjBhMTJjYWI
+  - title: meetup
+    url: https://www.meetup.com/DevOps-Notts/
 
 # Build settings
 markdown: kramdown
