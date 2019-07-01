@@ -5,7 +5,7 @@
   thumbnail: william-ellwood.jpg
   alt: Picture of William Ellwood
   topic: Test Driven Infrastructure with Molecule
-  description: More Info
+  description: Tests are good. Infrastructure as code is also good. Testing infrastructure as code is excellent. In this talk I will introduce and talk about my experiences with using Molecule, a Python based testing framework for the Ansible configuration management tool.
   bio: TBD
 
 - title: Tom Hoyland
