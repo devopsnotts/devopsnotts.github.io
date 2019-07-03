@@ -6,7 +6,8 @@
   alt: Picture of William Ellwood
   topic: Test Driven Infrastructure with Molecule
   description: Tests are good. Infrastructure as code is also good. Testing infrastructure as code is excellent. In this talk I will introduce and talk about my experiences with using Molecule, a Python based testing framework for the Ansible configuration management tool.
-  bio: TBD
+  bio: Will Ellwood is a Site Reliability Engineer for GoDaddy where he works on finding new things to automate. His two main opinions on software and infrastructure development are that to solve good, interesting, and difficult problems we should understand what we are doing and use the appropriate language to describe the problem at hand.
+       Will is always tired, drinks too much coffee, and wishes he spent more time reading.
 
 - title: Tom Hoyland
   name: tom-hoyland
