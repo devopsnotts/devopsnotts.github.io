@@ -1,20 +1,10 @@
-- title: William Ellwood
-  name: William-Ellwood
-  subtitle: Site Reliability Engineer, GoDaddy
-  img: william-ellwood.jpg
-  thumbnail: william-ellwood.jpg
-  alt: Picture of William Ellwood
-  topic: Test Driven Infrastructure with Molecule
-  description: Tests are good. Infrastructure as code is also good. Testing infrastructure as code is excellent. In this talk I will introduce and talk about my experiences with using Molecule, a Python based testing framework for the Ansible configuration management tool.
-  bio: Will Ellwood is a Site Reliability Engineer for GoDaddy where he works on finding new things to automate. His two main opinions on software and infrastructure development are that to solve good, interesting, and difficult problems we should understand what we are doing and use the appropriate language to describe the problem at hand.
-       Will is always tired, drinks too much coffee, and wishes he spent more time reading.
-
-- title: Tom Hoyland
-  name: tom-hoyland
-  subtitle: Agile Delivery Lead, Sky Betting and Gaming
-  img: tom-hoyland.jpg
-  thumbnail: tom-hoyland.jpg
-  alt: Picture of Tom Hoyland
-  topic: Building and Growing an Agile Team
-  description: How would you build a team from scratch? What techniques would you use? What metrics should you respond to? In this talk you’ll see how we assembled a team, embedded agile values, a DevOps mindset and a clear purpose to create a squad with an infectious, high performing culture. We’ll demonstrate the coaching and visualisation techniques we used to reduce batch size and improve quality. You’ll see how to reveal ‘hidden’ product backlogs, make the invisible visible, and use domain driven design, theory of constraints and language to optimise team resilience.
-  bio: With a background in software engineering, product development and service transformation, Tom likes to get under the bonnet of products and teams to understand what makes them tick and how they could be better. He’s led a range of agile and digital transformations, working with organisations to develop high performing, resilient cultures that go on to create innovative products and services.
+- title: Jonathan Relf
+  name: Jonathan-Relf
+  subtitle: Solutions Architect, Commify
+  img: jbjon.jpg
+  thumbnail: jbjon.jpg
+  alt: Picture of Jonathan Relf
+  topic: Devel-ops - Bringing development practices to operations tasks
+  description: DevOps starts to deliver more value when it moves beyond breaking down team communication walls and the sharing of best practice starts to happen from all sides. In this talk Jonathan Relf discusses how “infrastructure as code” can help you build secure, up to date environments consciously & collaboratively. You will be introduced to some of the methods and tools he has used to automate and test building virtual machines. He illustrates this with his own career journey from a Developer moving into Operations and the benefits these approaches have brought.
+  bio: Jonathan Relf (@jbjon) is a Solutions Architect at Commify. Building on 12 years experience at Esendex in development, then moving to focus on DevOps as an Operations team leader, he’s now working on designing projects across the growing portfolio of business messaging brands.
+       Outside of work, he’s a CodeClub volunteer, produces two podcasts Twine Radio & the Book Club Pod Show and enjoys music, electronics, and running.
