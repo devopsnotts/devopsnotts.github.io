@@ -8,3 +8,13 @@
   description: DevOps starts to deliver more value when it moves beyond breaking down team communication walls and the sharing of best practice starts to happen from all sides. In this talk Jonathan Relf discusses how “infrastructure as code” can help you build secure, up to date environments consciously & collaboratively. You will be introduced to some of the methods and tools he has used to automate and test building virtual machines. He illustrates this with his own career journey from a Developer moving into Operations and the benefits these approaches have brought.
   bio: Jonathan Relf (@jbjon) is a Solutions Architect at Commify. Building on 12 years experience at Esendex in development, then moving to focus on DevOps as an Operations team leader, he’s now working on designing projects across the growing portfolio of business messaging brands.
        Outside of work, he’s a CodeClub volunteer, produces two podcasts Twine Radio & the Book Club Pod Show and enjoys music, electronics, and running.
+
+- title: Paul Maloney
+  name: Paul-Maloney
+  subtitle: Head of Engineering, Commify
+  img: paul.PNG
+  thumbnail: paul.PNG
+  alt: Picture of Paul Maloney
+  topic: DevOps - Beyond the Team
+  description: In this talk Paul will talk about some of the approaches to scale DevOps beyond a single team and beyond a single company. For a lot of organisations DevOps starts internally with a single team who are trying to improve how they work, but then fails to go beyond the "network" of that team, especially where the organisation uses 3rd party suppliers, integration partners or outsourced teams. Paul uses his experience of working at a global scale to give examples of approaches that go Beyond the Team and discusses the pitfalls and celebrations as the journey from DevOps Team to DevOps culture progresses.
+  bio: Paul Maloney is the Head of Engineering at Commify, a global company that makes business communication brilliant. He leads multi-skilled, multi-function Engineering teams spread across multiple European locations. His teams build and operate the high throughout  messaging Products that delight Commify customers and if you ask him if his teams are DevOps you’d best be prepared for the typical Engineer response of “it depends”.
