@@ -4,16 +4,16 @@
   img: dcprofile.png
   thumbnail: dcprofile.png
   alt: Picture of Devon Cockram
-  topic: Understanding Technical User Stories
-  description: The who, what, where and why of Technical User Stories and helping you to get the most out of them.
+  topic: Product Ownership in High Performance IT Organisations
+  description: The journey to production starts with your user stories. In this workshop, Devon will show you some product ownership basics required to ensure high throughput of delivery of value to your users. Bring Sharpies and Post-its!
   bio: 
 
-- title: Alistair Hey
-  name: Alistair-Hey
-  subtitle: Senior DevOps Engineer, BlackCat Solutions
-  img: alistair.jpeg
-  thumbnail: alistair.jpeg
-  alt: Picture of Alistair Hey
-  topic: Containers - Who is running my Kubernetes Containers?
+- title: Louise Paling
+  name: Louise-Paling
+  subtitle: Head of Software Engineering, Cromwell Tools
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of Louise Paling
+  topic: Oath of Non-Allegiance
   description: 
   bio: 
