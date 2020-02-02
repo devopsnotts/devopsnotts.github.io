@@ -1,19 +1,19 @@
-- title: Vishal Vazkar
-  name: Vishal-Vazkar
-  subtitle: Senior DevOps Engineer, MMT Digital
-  img: vish.jpeg
-  thumbnail: vish.jpeg
-  alt: Picture of Vishal Vazkar
-  topic: Building a one-stop shop for monitoring and availability
-  description: Vish will be taking us through a number of monitoring options and why it's a great idea to have a single pane of truth into what's happening in your production systems.
+- title: Devon Cockram
+  name: Devon-Cockram
+  subtitle: Senior Product Owner, Impero Software
+  img: devon_cockram.png
+  thumbnail: devon_cockram.png
+  alt: Picture of Devon Cockram
+  topic: Product Ownership: A Workshop
+  description: If you're a developer, product manager, scrum master or you're looking to get to grips with the role of what product ownership is from how to write user stories to just what the hell is a persona anyway?; then this is the workshop for you!
   bio: 
 
-- title: Martin Woodward
-  name: Martin-Woodward
-  subtitle: Principal Group Program Manager for Azure DevOps, Microsoft
-  img: martin.jpeg
-  thumbnail: martin.jpeg
-  alt: Picture of Martin Woodward
-  topic: Deep Dive into GitHub Actions
-  description: Martin will be giving us a deep dive into the recently released Github Actions, covering what they are, how to use them and what you can do with them.
+- title: Pete Gallagher
+  name: Pete-Gallagher
+  subtitle: Freelance Software Consultant, Azure MVP
+  img: pete_gallagher.png
+  thumbnail: pete_gallagher.png
+  alt: Picture of Pete Gallagher
+  topic: DevOps in the world of IoT
+  description: Pete will be giving a talk on how DevOps works and affects the world of IoT
   bio: 
