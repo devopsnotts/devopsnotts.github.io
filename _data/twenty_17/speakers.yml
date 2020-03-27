@@ -1,19 +1,29 @@
-- title: Devon Cockram
-  name: Devon-Cockram
-  subtitle: Senior Product Owner, Impero Software
-  img: devon-cockram.png
-  thumbnail: devon-cockram.png
-  alt: Picture of Devon Cockram
-  topic: Product Ownership - A Workshop
-  description: If you're a developer, product manager, scrum master or you're looking to get to grips with the role of what product ownership is from how to write user stories to just what the hell is a persona anyway? then this is the workshop for you!
-  bio: 
+- title: Colin Powers
+  name: Colin-Powers
+  subtitle: Senior Software Team Lead, geoSLAM
+  img: colin-powers.png
+  thumbnail: colin-powers.png
+  alt: Picture of Colin Powers
+  topic: Walls Don't Work
+  description: Stop me if you've heard this before - The sales guys hate the devs. The devs hate the support guys. The support guys hate the customers. Everyone hates the boss. Is everyone incompetent? Are these groups just natural enemies? Or could it be that we just need to understand each other a little better?
+  bio: Colin is a development manager who has spent time in development, customer support, pre-sales and business improvement. He has seen the various points of view in the business and how different teams work together, or sometimes how they do not. While software development is his area of expertise, his real passion is helping businesses to work effectively across the whole organisation by building up the glue that connects different departments together.
 
-- title: Pete Gallagher
-  name: Pete-Gallagher
-  subtitle: Freelance Software Consultant, Azure MVP
-  img: pete-gallagher.png
-  thumbnail: pete-gallagher.png
-  alt: Picture of Pete Gallagher
-  topic: DevOps in the world of IoT
-  description: Pete will be giving a talk on how DevOps works and affects the world of IoT
-  bio: 
+- title: Hani Momeninia
+  name: Hani-Momeninia
+  subtitle: Founder, Invest Cyber
+  img: hani-momeninia.png
+  thumbnail: hani-momeninia.png
+  alt: Picture of Hani Momeninia
+  topic: Get Started with Azure DevOps and Security
+  description: Ever wondered how to get into Azure DevOps? CosmosDB with Azure Functions? Today we’re going to give you a quick start, as well as showing you how to make sure you have all security measures put in place to protect your organisation from any potential vulnerabilities in your source code all the way to the build process.
+  bio: Hani Momeninia is Founder of Invest Cyber. He is a self-professed and has technical expertise spanning a variety of the security domains from forensics to offensive security. He is a big believer that one of the biggest problems of security is making it accessible and interesting to those outside the security industry. As a result, he takes every opportunity to educate on security threats and best practice and always featuring live demonstrations and showing how the cyber criminals do it.
+
+- title: Salman Chishti
+  name: Salman-Chishti
+  subtitle: Microsoft Intern and Student Partner
+  img: salman-chishti.png
+  thumbnail: salman-chishti.png
+  alt: Picture of Salman Chishti
+  topic: Get Started with Azure DevOps and Security
+  description: Ever wondered how to get into Azure DevOps? CosmosDB with Azure Functions? Today we’re going to give you a quick start, as well as showing you how to make sure you have all security measures put in place to protect your organisation from any potential vulnerabilities in your source code all the way to the build process.
+  bio: Salman is an incoming Microsoft intern and a Microsoft Student Partner studying Computer Science and Artificial Intelligence at the University of Nottingham. Previously he has built a HoloLens application for Digital Catapult in London, has a lot of experience in .NET, and in his spare time, he loves to collaborate to the community by running events with Microsoft for MSPInspire and contributing to open-source.
